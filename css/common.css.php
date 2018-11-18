@@ -4028,3 +4028,13 @@ ul#topmenu2 a, li#li_create_database, #sectionlinks, table tr th, table tr {
 li.active, #topmenu2 .tabactive {
     background: #bbbaba;
 }
+
+.sqlOuter code.sql, div.sqlvalidate, #inline_editor_outer, .result_query, div.tools, .tblFooters, .column_heading, .column_action {
+    background: #242424;
+    border: 0px;
+}
+
+table tr:not(.nopointer):hover, .hover:not(.nopointer) {
+    background-color: #2f2f2f;
+    color: #909090
+}
