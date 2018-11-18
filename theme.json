@@ -1,0 +1,9 @@
+{
+    "name": "Metro Dark",
+    "version": "2.8",
+    "description": "Windows 10 / Metro Dark Theme for phpMyAdmin",
+    "author": "phpMyAdmin developers and hplhu, darkened by glastis",
+    "url": "https://www.phpmyadmin.net/",
+    "supports": ["4.8"]
+}
+
