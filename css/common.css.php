@@ -4013,3 +4013,18 @@ input[type='checkbox'], input.criteria_col {
     color: #444 !important;
     background: #888 !important;
 }
+
+ul#topmenu2 a, li#li_create_database, #sectionlinks, table tr th, table tr {
+    background-color: #0e0e0e;
+    border: 0px;
+}
+
+.tblHeaders, #sectionlinks a, .buttonlinks a, a.button, .pma_quick_warp .drop_button {
+    background: #333;
+    border: 0px;
+    color: #777;
+}
+
+li.active, #topmenu2 .tabactive {
+    background: #bbbaba;
+}
